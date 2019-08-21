@@ -9,3 +9,4 @@ Day 04: Class vs. Instance
 Day 05: Loops  
 Day 06: Let's Review  
 Day 07: Arrays  
+Day 08: Dictionaries and Maps  
