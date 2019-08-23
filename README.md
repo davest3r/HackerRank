@@ -11,3 +11,4 @@ Day 06: Let's Review
 Day 07: Arrays  
 Day 08: Dictionaries and Maps  
 Day 09: Recursion 3  
+Day 10: Binary Numbers  
